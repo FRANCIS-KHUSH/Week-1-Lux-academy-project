@@ -1,5 +1,6 @@
-IGTV Performance Metrics Tracker
-This is a project  for measuring and analyzing IGTV performance over the course of a month is the IGTV Performance Metrics Tracker. With the help of this tool, I gathered, arranged, and visualized key performance indicators (KPIs) for someIGTV video.
+**IGTV Performance Metrics Tracker
+
+**This is a project  for measuring and analyzing IGTV performance over the course of a month is the IGTV Performance Metrics Tracker. With the help of this tool, I gathered, arranged, and visualized key performance indicators (KPIs) for someIGTV video.
 Features
 Monthly Tracking: Easily keep track of how the IGTV videos were performing weeks to weeks
 
